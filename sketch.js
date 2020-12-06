@@ -16,7 +16,7 @@ function setup() {
 
 	//Create the Bodies Here.
 	ground = new Ground(400,365,800,15);
-	paper = new Paper(100,342.5,18);
+	paper = new Paper(130,342.5,18);
 	tc1 = new Trashcan(510,298,15,120);
 	tc2 = new Trashcan(650,298,15,120);
 	tc3 = new Trashcan(580,343,140,30)
